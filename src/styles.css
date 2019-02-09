@@ -1,7 +1,7 @@
 /* You can add global styles to this file, and also import other style files */
 .del {
   background: red;
-  /* color: aliceblue; */
+  color: aliceblue;
   padding: 5px 10px;
   border-radius: 50%;
   float: right;
@@ -19,7 +19,7 @@
   text-decoration: line-through;
 }
 
-* {
+/* * {
   color: black !important;
   size: 30px;
-}
+} */
