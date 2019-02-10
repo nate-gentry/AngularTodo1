@@ -1,13 +1,16 @@
-.form {
-  margin: 2%;
+
+form input {
+ padding: 20px;
 }
 
-.form input {
-  flex: 10px;
-  padding: 5px;
+form {
+  font-size: 25px;
 
 }
 
-.form input[type="sybmit"]{
-  flex: 20%;
+
+input, textarea {
+  background-color : #d1d1d1;
+  margin-bottom: 4%;
+  text-align: center !important;
 }

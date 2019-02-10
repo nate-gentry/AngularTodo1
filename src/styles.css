@@ -19,10 +19,10 @@
   text-decoration: line-through;
 }
 
-/* * {
-  color: black !important;
-  size: 30px;
-} */
+*{
+  font-family: 'Questrial', sans-serif !important;
+  text-align: center;
+}
 
 .head {
   background: gold;

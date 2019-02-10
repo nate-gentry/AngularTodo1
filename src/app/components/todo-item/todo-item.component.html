@@ -1,8 +1,8 @@
-<div [ngClass]="setClasses()">
-  <p>
-    <input (change)="onToggle(todo)" type="checkbox" >
+<div [ngClass]="setClasses()" class="mainBla">
+  <p class="main-text"> 
+    <input    class="custom-control custom-checkbox" (change)="onToggle(todo)" type="checkbox" >
     {{ todo.title }} 
-    <button  (click)="onDelete(todo)" class="del">x</button>
+    <button  (click)="onDelete(todo)" class="btn btn-danger del" > Delete</button>
   </p>
 </div>
 

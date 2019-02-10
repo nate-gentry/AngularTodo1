@@ -2,19 +2,34 @@
 .del {
   background: red;
   color: aliceblue;
-  padding: 5px 10px;
-  border-radius: 50%;
+  /* padding: 5px 10px; */
+  /* border-radius: 50%; */
   float: right;
   cursor: pointer;
 }
 
-.todo{
+.todo {
+  font-size: x-large !important;
 
-  /* background: black; */
-  padding: 10x;
+  padding: 15x;
 
 }
 
-.is-completed{
+.is-completed {
   text-decoration: line-through;
+}
+
+
+
+rifgh {
+  text-align: right !important;
+}
+
+p input {
+  font-size: 50px;
+}
+
+.btn btn-outline-success {
+  font-size: 50px !important;
+  
 }
