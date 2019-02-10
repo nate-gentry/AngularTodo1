@@ -23,3 +23,9 @@
   color: black !important;
   size: 30px;
 } */
+
+.head {
+  background: gold;
+  padding: 10px;
+  color: red;
+}

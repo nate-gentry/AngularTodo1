@@ -1,0 +1,13 @@
+.form {
+  margin: 2%;
+}
+
+.form input {
+  flex: 10px;
+  padding: 5px;
+
+}
+
+.form input[type="sybmit"]{
+  flex: 20%;
+}
